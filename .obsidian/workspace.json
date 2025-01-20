@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "ВУЗ/BPMSoft/Подготовка к экзамену.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -173,19 +173,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d5dcb9057f8ce63",
+  "active": "e48850ef9c6224b6",
   "lastOpenFiles": [
+    "ВУЗ/BPMSoft/Разделы/Пакет.md",
+    "ВУЗ/BPMSoft/Подготовка к экзамену.md",
+    "Obsidian Vault.rar",
     "фыв/фывфв",
     "фыв",
     "ВУЗ/BPMSoft/Дополнения/Архитектура/Основные компоненты инфраструктуры.md",
     "ВУЗ/BPMSoft/Дополнения/Архитектура/Уровни архитектуры BPMSoft.md",
     "ВУЗ/BPMSoft/Разделы/Архитектура.md",
-    "ВУЗ/BPMSoft/Подготовка к экзамену.md",
     "ВУЗ/BPMSoft/Дополнения/Бизнес-процессы/Операции с данными.md",
     "ВУЗ/BPMSoft/Разделы/Бизнес-процессы.md",
     "ВУЗ/Untitled.canvas",
     "ВУЗ",
-    "ВУЗ/BPMSoft/Разделы/Пакет.md",
     "ВУЗ/BPMSoft/Разделы/Деталь.md",
     "ВУЗ/BPMSoft/Разделы/Веб-сервис.md",
     "ВУЗ/BPMSoft/Разделы/Бизнес-правила.md",
@@ -209,8 +210,6 @@
     "ВУЗ/BPMSoft/Разделы",
     "BPMSoft/Дополнения/Архитектура/Index.md",
     "ВУЗ/BPMSoft/Дополнения/Бизнес-процессы",
-    "ВУЗ/BPMSoft/Дополнения/Архитектура",
-    "ВУЗ/BPMSoft/Дополнения/Бизнес-правила",
-    "ВУЗ/BPMSoft/Дополнения"
+    "ВУЗ/BPMSoft/Дополнения/Архитектура"
   ]
 }
